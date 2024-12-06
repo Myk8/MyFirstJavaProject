@@ -1,4 +1,4 @@
-public class Main {
+public class PushingProjectToGit {
     public static void main(String[] args) {
       /*GIT USE
      1. VCS/Enable Version CONTROL INTEGRATION
