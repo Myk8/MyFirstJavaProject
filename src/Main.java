@@ -10,7 +10,7 @@ public class Main {
      5. Go to your GitHub Account ---> Create new Repository/ "Owner"/"Repository name": any name / "Description" same name / tick "Add ReadMe File" / "Create Repository"
 
      6. Code/HTTPS COPY
-     7 GO BACK INTELIJ
+     7 GO BACK Idea press  pick "push"
 
         */
 
